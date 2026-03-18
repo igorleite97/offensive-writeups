@@ -24,7 +24,7 @@
 
 ---
 
-## 🎯 Repository Purpose
+## Repository Purpose
 
 This repository documents **exploitation processes** of vulnerable machines, including:
 
@@ -57,7 +57,7 @@ Each write-up documents:
 
 ---
 
-## 🏆 Skills Demonstrated
+## Skills Demonstrated
 
 ### Reconnaissance & Enumeration
 ```
@@ -107,7 +107,7 @@ Each write-up documents:
 
 ---
 
-## 📂 Documented Rooms
+## Documented Rooms
 
 ### TryHackMe
 
@@ -125,7 +125,7 @@ Each write-up documents:
 - [x] [**Simple CTF**](tryhackme/simple-ctf/)  
   *CMS Made Simple, SQLi, VIM GTFOBins*
 
-- [ ] **Brooklyn Nine Nine**  
+- [x] **Brooklyn Nine Nine**  
   *Steganography, SUDO abuse*
   
 - [ ] **Lazyadmin**  
@@ -171,7 +171,7 @@ Each write-up documents:
 
 ---
 
-## 📖 Write-Up Structure
+## Write-Up Structure
 
 Each write-up follows a **professional penetration testing report** format:
 
@@ -196,7 +196,7 @@ Each write-up follows a **professional penetration testing report** format:
 
 ---
 
-## 🛠️ Offensive Toolkit
+## Offensive Toolkit
 
 ### Reconnaissance
 ```bash
@@ -229,7 +229,7 @@ mimikatz, impacket
 
 ---
 
-## 📊 Progress Tracking
+## Progress Tracking
 
 ### Current Stats (March 2026)
 
@@ -268,12 +268,12 @@ Phase 1: Foundation (CURRENT)
 ├─ ✅ Basic Pentesting
 ├─ ✅ Kenobi
 ├─ ✅ Simple CTF
-└─ 🔄 Brooklyn Nine Nine
+└─ ✅ Brooklyn Nine Nine
 
 Phase 2: Intermediate
 ├─ 📋 Lazyadmin
 ├─ 📋 Startup
-└─ 📋 Network exploitation rooms
+└─ 📋 Mr.Robot
 
 Phase 3: Advanced
 ├─ 📋 Buffer overflow techniques
@@ -299,7 +299,6 @@ Certification Goal:
 
 ### Education
 - **CST Information Security** - UNIP (2025-2027)
-- **Ethical Hacking & Defense** - Udemy (2021)
 
 ---
 
@@ -322,7 +321,7 @@ Certification Goal:
 
 ---
 
-## 📜 Disclaimer
+##  Disclaimer
 
 ```
 ⚠️  LEGAL NOTICE
@@ -340,7 +339,7 @@ This repository is for EDUCATIONAL PURPOSES ONLY.
 
 ---
 
-## 🌟 Contributing
+## Contributing
 
 Found value in these write-ups? Consider:
 
@@ -358,7 +357,7 @@ Open an issue or PR!
 
 ---
 
-## 📚 Resources & References
+##  Resources & References
 
 ### Recommended Learning Paths
 - [TryHackMe Offensive Pentesting Path](https://tryhackme.com/path/outline/pentesting)
@@ -378,7 +377,7 @@ Open an issue or PR!
 
 ---
 
-## 📈 Repository Stats
+## Repository Stats
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/igorleite97/offensive-writeups?style=flat-square)
 ![GitHub repo size](https://img.shields.io/github/repo-size/igorleite97/offensive-writeups?style=flat-square)
