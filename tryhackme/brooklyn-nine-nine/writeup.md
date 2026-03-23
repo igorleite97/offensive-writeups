@@ -13,7 +13,7 @@
 | **Difficulty** | Easy |
 | **OS** | Linux (Ubuntu) |
 | **IP Address** | 10.65.169.60 |
-| **Date Completed** | March 17 2026 |
+| **Date Completed** | March 17  2026 |
 
 ---
 
