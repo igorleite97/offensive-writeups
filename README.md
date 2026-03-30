@@ -52,13 +52,13 @@ References            →  fontes e CVEs relevantes
 | [Break Out The Cage](tryhackme/break-out-the-cage/) | Easy | Linux | Base64 + Vigenère cipher, Python command injection via os.system(), cron exploitation | ✅ |
 | [Brooklyn Nine Nine](tryhackme/brooklyn-nine-nine/) | Easy | Linux | FTP anonymous, SSH brute-force (Hydra), SUID less (GTFOBins) | ✅ |
 | [Kenobi](tryhackme/kenobi/) | Easy | Linux | ProFTPD mod_copy (CVE-2015-3306), NFS misconfiguration, PATH hijacking | ✅ |
-| [Mr. Robot CTF](tryhackme/mr-robot-ctf/) | Medium | Linux | WordPress enumeration, hash cracking, SUID nmap |  |
-| [Wonderland](tryhackme/wonderland/) | Medium | Linux | PATH manipulation, Linux capabilities (cap_setuid) |  |
-| [Attacktive Directory](tryhackme/attacktive-directory/) | Medium | Windows | Kerberos enumeration, AS-REP Roasting, DCSync |  |
+| [Mr. Robot CTF](tryhackme/mr-robot-ctf/) | Medium | Linux | — |  |
+| [Wonderland](tryhackme/wonderland/) | Medium | Linux | — |  |
+| [Attacktive Directory](tryhackme/attacktive-directory/) | Medium | Windows | — |  |
 | [Basic Pentesting](tryhackme/basic-pentesting/) | Easy | Linux | SMB enumeration, SSH brute-force, SSH key cracking | ✅ |
 | [Simple CTF](tryhackme/simple-ctf/) | Easy | Linux | CMS Made Simple SQLi, VIM GTFOBins | ✅ |
 | [Lookup](tryhackme/lookup/) | Easy | Linux | — |  |
-| [Basic Malware RE](other/basic-malware-re/) | — | — | Static analysis, reverse engineering |  |
+| [Basic Malware RE](other/basic-malware-re/) | — | — | — |  |
 
 ### HackTheBox
 
