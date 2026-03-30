@@ -1,4 +1,4 @@
-git adgit # Offensive Security Write-Ups
+# Offensive Security Write-Ups
 
 <div align="center">
 
